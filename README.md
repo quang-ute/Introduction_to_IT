@@ -42,45 +42,45 @@ https://fanatical-parrot-b73.notion.site/Virtual-Extensible-LAN-VxLAN-10965ad1a7
 
 https://artistic-potential-439.notion.site/9d07a27ca90849bf86820a878a6a4054?v=218c33c23183430bad08df9a46ea175e
 
-Phòng trọ SV
+**Phòng trọ SV**
 
 https://salty-snipe-c1d.notion.site/REVIEW-TR-SINH-VI-N-e2f275540cd1495ab6028992ca5d42ad
 
-Kênh youtube hữu ích
+**Useful youtube channels**
 
 https://literate-moonflower-42e.notion.site/Website-gi-i-thi-u-c-c-k-nh-youtube-h-u-ch-65df41eaee294dcc92cde60835d35b8c
 
-Du lịch
+**Travel**
 
 https://agreeable-wanderer-1bb.notion.site/L-T-88adb81e3cd54821b2d7c859a60a2200
 
 https://mngaminhh.github.io/dat_lat/trangchu.html
 
-Random
+**Random**
 
 https://fish-existence-e06.notion.site/WEBSITE-RANDOM-33704f405bb54267a78d7180b080685a
 
-Ktisi
+**Ktisi**
 
 https://ktisi.notion.site/Ktisi-Project-ca6ed1222ad74a53ba84694381a6332c
 
-Game project
+**Game project**
 
 https://modern-beryl-38d.notion.site/a0528fc588664cc49f62645b7951d661?v=aeb38363047e403084857bf989928a71
 
-Web Tutor
+**Web Tutor**
 
 https://www.notion.so/WEB-TUTOR-83cee058bc0b438a936ea82116a2e70f
 
-Pet Shop
+**Pet Shop**
 
 https://artistic-potential-439.notion.site/9d07a27ca90849bf86820a878a6a4054?v=218c33c23183430bad08df9a46ea175e
 
-IT specializations Intro
+**IT specializations Intro**
 
 https://dog-comte-3a2.notion.site/Website-gi-i-thi-u-m-t-s-chuy-n-ng-nh-C-ng-ngh-th-ng-tin-a969ea8bac39436cbdb28d87b0e118c1
 
-Web Tổng hợp tài liệu
+**Web Tổng hợp tài liệu**
 
 https://sepia-peace-ba4.notion.site/WEB-T-NG-H-P-T-I-LI-U-f5b38398fe414f28994cb2cb37ef69a5
 
