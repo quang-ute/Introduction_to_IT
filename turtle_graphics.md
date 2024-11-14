@@ -91,19 +91,19 @@ t = turtle.Turtle()
 t.speed(0)  # Fastest speed
 t.pensize(2)
 
-# Simple Spirograph Pattern
+#Simple Spirograph Pattern
 def simple_spirograph():
     radius = 100
     for i in range(36):  # 360/10 = 36 iterations
         t.circle(radius)
         t.right(10)
 
-# Move turtle to new position
+#Move turtle to new position
 t.penup()
 t.goto(-150, 0)
 t.pendown()
 
-# Overlapping Circles
+#Overlapping Circles
 def overlapping_circles():
     colors = ['red', 'purple', 'blue', 'green', 'orange', 'yellow']
     for i in range(36):
@@ -111,12 +111,12 @@ def overlapping_circles():
         t.circle(70)
         t.right(10)
 
-# Move turtle
+#Move turtle
 t.penup()
 t.goto(150, 0)
 t.pendown()
 
-# Flower Pattern
+#Flower Pattern
 def flower_pattern():
     for i in range(36):
         # Draw four circles for each petal
@@ -125,7 +125,7 @@ def flower_pattern():
             t.right(90)
         t.right(10)  # Rotate for next petal
 
-# More Complex Spirograph
+#More Complex Spirograph
 def complex_spirograph():
     t.clear()  # Clear previous drawings
     R = 125  # Radius of the fixed circle
@@ -143,7 +143,7 @@ def complex_spirograph():
             t.pendown()
         angle += 1
 
-# Run any of these patterns by uncommenting:
+#Run any of these patterns by uncommenting:
 
 simple_spirograph()
 # overlapping_circles()
