@@ -41,7 +41,7 @@ for i in range(5):
 
 turtle.done()  # Keep window open
 ```
-# Colorful Pattern
+# Colorful Patterns
 ```
 import turtle
 from random import choice
@@ -83,3 +83,71 @@ for color in colors:
 
 turtle.done()
 ```
+# Sinographs
+import turtle
+import math
+
+t = turtle.Turtle()
+t.speed(0)  # Fastest speed
+t.pensize(2)
+
+# Simple Spirograph Pattern
+def simple_spirograph():
+    radius = 100
+    for i in range(36):  # 360/10 = 36 iterations
+        t.circle(radius)
+        t.right(10)
+
+# Move turtle to new position
+t.penup()
+t.goto(-150, 0)
+t.pendown()
+
+# Overlapping Circles
+def overlapping_circles():
+    colors = ['red', 'purple', 'blue', 'green', 'orange', 'yellow']
+    for i in range(36):
+        t.pencolor(colors[i % 6])
+        t.circle(70)
+        t.right(10)
+
+# Move turtle
+t.penup()
+t.goto(150, 0)
+t.pendown()
+
+# Flower Pattern
+def flower_pattern():
+    for i in range(36):
+        # Draw four circles for each petal
+        for j in range(4):
+            t.circle(40)
+            t.right(90)
+        t.right(10)  # Rotate for next petal
+
+# More Complex Spirograph
+def complex_spirograph():
+    t.clear()  # Clear previous drawings
+    R = 125  # Radius of the fixed circle
+    r = 75   # Radius of the moving circle
+    d = 125  # Distance from the pen to the center of the moving circle
+    
+    angle = 0
+    for i in range(360):
+        # Parametric equations of spirograph
+        x = (R - r) * math.cos(math.radians(angle)) + d * math.cos(math.radians((R - r) * angle / r))
+        y = (R - r) * math.sin(math.radians(angle)) - d * math.sin(math.radians((R - r) * angle / r))
+        
+        t.goto(x, y)
+        if i == 0:
+            t.pendown()
+        angle += 1
+
+# Run any of these patterns by uncommenting:
+
+simple_spirograph()
+# overlapping_circles()
+# flower_pattern()
+# complex_spirograph()
+
+turtle.done()
