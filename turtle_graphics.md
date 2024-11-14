@@ -84,6 +84,7 @@ for color in colors:
 turtle.done()
 ```
 # Sinographs
+```
 import turtle
 import math
 
@@ -151,3 +152,4 @@ simple_spirograph()
 # complex_spirograph()
 
 turtle.done()
+```
